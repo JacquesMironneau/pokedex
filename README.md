@@ -1,0 +1,2 @@
+# pokedex
+OCR based pokedex
